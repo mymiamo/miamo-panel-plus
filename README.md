@@ -99,3 +99,9 @@ You can help improve:
 @echo off
 py main.py
 ```
+
+### SMS Bomb by. @tingirifistik
+
+[GITHUB](https://github.com/tingirifistik/Enough-Reborn)
+
+
