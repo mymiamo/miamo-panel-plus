@@ -1,4 +1,4 @@
-# Miamo Request Panel
+# Miamo Panel +
 
 A console-based request automation tool with optional proxy rotation and SEO data extraction (page title & meta description).
 
@@ -47,7 +47,7 @@ python main.py
 
 | File | Description |
 |------|-------------|
-| `main.py` | Main request panel |
+| `main.py` | Main Panel + |
 | `requirements.txt` | Dependency list |
 | `start.bat` | One-click launcher |
 | Proxy list | Built-in rotating proxies (HTTP recommended) |
